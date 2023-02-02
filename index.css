@@ -1,0 +1,19 @@
+/* css goes here */
+
+#word-box {
+  margin: auto;
+  border: 2px solid black;
+  padding: 24px;
+  border-radius: 25px;
+}
+
+#guesser {
+  text-align: center;
+  font-size: large;
+  text-decoration: underline;
+}
+
+#word {
+  text-align: center;
+  font-size: xx-large;
+}
